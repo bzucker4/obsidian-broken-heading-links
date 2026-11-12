@@ -1,0 +1,10 @@
+{
+	"id": "broken-heading-links",
+	"name": "Broken Heading Links",
+	"version": "1.0.0",
+	"minAppVersion": "1.1.0",
+	"description": "Find links to headings and blocks that no longer exist, like [[Note#Old heading]], and fix them with one click.",
+	"author": "Brian Zucker",
+	"authorUrl": "https://github.com/bzucker4",
+	"isDesktopOnly": false
+}
